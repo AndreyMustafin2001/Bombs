@@ -101,8 +101,4 @@ std::pair<Bomb, int> solve(std::string file)
  return {bombs[bestbombindex],ans};
 }
 
-/*int main()
-{
-   solve();
-}*/
 
